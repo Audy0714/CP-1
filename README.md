@@ -7,6 +7,8 @@ CP1 : Maquetter une application
 ## Réalisation du projet
 
 Les 12 travaux d'Hercule
+Minimum Viable Product
+Users Stories
 Wireframes réalisés seule avec whimsical.com
 
 ### Lien Github du pojet
